@@ -191,7 +191,7 @@ margin-top: 20px;
 }
 
 .main-4 {
-    background-image: linear-gradient(rgba(234, 246, 252, 0.856), rgba(234, 246, 252, 0.884)), url(../css/images/checked-pattern-blue.png);
+    background-image: linear-gradient(rgba(234, 246, 252, 0.856), rgba(234, 246, 252, 0.884)), url(./css/images/checked-pattern-blue.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -270,7 +270,7 @@ margin-top: 20px;
 
 
  .main-6 {
-     background-image:  linear-gradient(rgba(249, 251, 252, 0.76), rgba(249, 251, 252, 0.76)), url(../css/images/circular-pattern.png);
+     background-image:  linear-gradient(rgba(249, 251, 252, 0.76), rgba(249, 251, 252, 0.76)), url(./css/images/circular-pattern.png);
      padding-top: 100px;
      background-repeat: no-repeat;
      background-position: right;
@@ -319,7 +319,7 @@ margin-top: 20px;
  .main-7 {
     padding: 90px 0 ;
     margin: 100px 0;
-    background-image: linear-gradient(rgba(249, 251, 252, 0.76), rgba(249, 251, 252, 0.76)), url(../css/images/curved-pattern.png);
+    background-image: linear-gradient(rgba(249, 251, 252, 0.76), rgba(249, 251, 252, 0.76)), url(./css/images/curved-pattern.png);
     display: flex;
  }
 
